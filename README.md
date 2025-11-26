@@ -1,6 +1,6 @@
 Splunk Dashboard for Web Traffic Logs
 
-OBject
+< Object
 
 Lab Set Up
 
