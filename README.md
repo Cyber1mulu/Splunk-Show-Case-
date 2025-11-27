@@ -33,6 +33,13 @@
    </thead>
 </table>
 
+3 Successful Response
+
+- Click on Add Panel
+- Under New, choose Single Value
+- Use Shared Time Picker time_range
+- Set Content Title to "Successful Response"
+- Enter the Search String as below
        
 
 
