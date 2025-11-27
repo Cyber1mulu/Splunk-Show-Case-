@@ -17,8 +17,7 @@ Task 1 The First one setting up Time Range
   -Again Add Input
 
   -Select Submit
-
-
+  
 Task1: Web Activities
 
   Goal: Give a quick summary of Web activity.
