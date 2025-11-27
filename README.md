@@ -88,3 +88,10 @@
 
   
   Goal: Give a quick summary of Web Statstics.</h5>
+
+  1 Top Requested URIs
+- Click on Add Panel
+- Under New, choose Bar Chart
+- Use Shared Time Picker time_range
+- Set Content Title to "Top Requested URIs"
+- Enter the Search String as below
