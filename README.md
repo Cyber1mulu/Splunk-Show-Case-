@@ -95,14 +95,14 @@
 - Use Shared Time Picker time_range
 - Set Content Title to "Top Requested URIs"
 - Enter the Search String as below
-
-
-  <table>
+<table>
    <thead>
 
 
-     source="apache_mixed_access_full (1).json" host="webserver" sourcetype="_json" 
-    | stats count AS "Hits" by uri
+       source="apache_mixed_access_full (1).json" host="webserver" sourcetype="_json" 
+       | where status>=400 and status<500 
+       | stats count AS "Server Errors"
       
    </thead>
 </table>
+
