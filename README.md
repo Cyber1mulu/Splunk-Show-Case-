@@ -131,3 +131,19 @@
 - Use Shared Time Picker time_range
 - Set Content Title to Web Traffic by Client IP Addresses
 - Enter the Search String as below:
+  <table>
+   <thead>
+
+
+     source="apache_mixed_access_full (1).json" host="webserver" sourcetype="_json"     method=GET
+    | table ip
+    | iplocation ip
+    | stats count by Country
+    | geom geo_countries featureIdField="Country"
+       
+
+      
+   </thead>
+</table>
+
+  
