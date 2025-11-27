@@ -18,10 +18,10 @@ Task 1 The First one setting up Time Range
 
   -Select Submit
   
-Task1: Web Activities
+<h5>Task1: Web Activities
 
   Goal: Give a quick summary of Web activity.
- 1  <h4>Total Web Requests</h4>
+   Web Requests</h5>
   Click on Add Panel
   Under New, choose Single Value
   Use Shared Time Picker time_range
