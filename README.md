@@ -41,6 +41,12 @@
 - Set Content Title to "Successful Response"
 - Enter the Search String as below
        
-
+<table>
+   <thead>
+        
+    source="apache_mixed_access_full (1).json" host="webserver" sourcetype="_json" method=GET status=200 
+    | stats count AS "Successful Responses"	
+   </thead>
+</table>
 
 
