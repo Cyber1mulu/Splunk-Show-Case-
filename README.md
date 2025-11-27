@@ -6,7 +6,7 @@
 
 <h5> Task 1 First setting up Time Range </h5>
 
-  - Add Time Range Button
+  1 Add Time Range Button
   - Click on Add Input
   - Select Time and click on pencil icon
   - Set Label to Time Range and Token time_range
