@@ -77,9 +77,11 @@
 <table>
    <thead>
 
+     
   source="apache_mixed_access_full (1).json" host="webserver" sourcetype="_json" 
   | where status>=400 and status<500 
   | stats count AS "Client Errors"
+
      
    </thead>
 </table>
