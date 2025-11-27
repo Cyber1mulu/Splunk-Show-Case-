@@ -67,3 +67,9 @@
    </thead>
 </table>
 
+5 Server Errors 
+- Click on Add Panel
+- Under New, choose Single Value
+- Use Shared Time Picker time_range
+- Set Content Title to "Server Errors (5xx)"
+- Enter the Search String as below:
