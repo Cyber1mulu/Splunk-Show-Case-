@@ -20,8 +20,9 @@
   
 <h5>Task2: Web Activities
 
-  Goal: Give a quick summary of Web activity.
-   Web Requests</h5>
+  Goal: Give a quick summary of Web activity. </h5>
+  
+   Web Requests
   Click on Add Panel
   Under New, choose Single Value
   Use Shared Time Picker time_range
