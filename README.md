@@ -28,7 +28,7 @@
 <table>
    <thead>
         
-     pache_mixed_acess_full (1).json" host="webserver" sourcetype="_json"
+    source=pache_mixed_acess_full (1).json" host="webserver" sourcetype="_json"
         | stats count AS "Total Web Requests"
    </thead>
 </table>
