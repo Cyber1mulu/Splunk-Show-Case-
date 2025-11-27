@@ -122,3 +122,10 @@
       
    </thead>
 </table>
+
+<h5>Task3: Web Traffic by Client IP Addresses</h5>
+- Click on Add Panel
+- Under New, choose Choropleth Map
+- Use Shared Time Picker time_range
+- Set Content Title to Web Traffic by Client IP Addresses
+- Enter the Search String as below:
