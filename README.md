@@ -22,12 +22,12 @@
 
   Goal: Give a quick summary of Web activity. </h5>
   
-   Web Requests
-  Click on Add Panel
-  Under New, choose Single Value
-  Use Shared Time Picker time_range
-  Set Content Title to "Total Web Requests"
-  Enter the Search String as below
+  - Web Requests
+  - Click on Add Panel
+  - Under New, choose Single Value
+  - Use Shared Time Picker time_range
+  - Set Content Title to "Total Web Requests"
+  - Enter the Search String as below
  
 
 <table>
