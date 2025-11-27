@@ -108,6 +108,7 @@
 
 2 Top Users by IP Address
 - Click on Add Panel
+  
 - Under New, choose Bar Chart
 - Use Shared Time Picker time_range
 - Set Content Title to "Top Users by IP Address"
@@ -124,6 +125,7 @@
 </table>
 
 <h5>Task3: Web Traffic by Client IP Addresses</h5>
+
 - Click on Add Panel
 - Under New, choose Choropleth Map
 - Use Shared Time Picker time_range
