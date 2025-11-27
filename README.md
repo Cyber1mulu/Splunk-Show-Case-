@@ -84,5 +84,5 @@
    </thead>
 </table>
 
-<h>Task2: Web Stats
+<h5>Task2: Web Stats
 Goal: Give a quick summary of Web Statstics.</h5>
