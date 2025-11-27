@@ -18,7 +18,7 @@
 
   -Select Submit
   
-<h5>Task1: Web Activities
+<h5>Task2: Web Activities
 
   Goal: Give a quick summary of Web activity.
    Web Requests</h5>
