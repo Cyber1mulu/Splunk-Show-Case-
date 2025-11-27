@@ -6,17 +6,17 @@
 
 <h5> Task 1 The First one setting up Time Range </h5>
 
-  -Add Time Range Button
+  - Add Time Range Button
 
-  -Click on Add Input
+  - Click on Add Input
 
-  -Select Time and click on pencil icon
+  - Select Time and click on pencil icon
 
-  -Set Label to Time Range and Token time_range
+  - Set Label to Time Range and Token time_range
 
-  -Again Add Input
+  - Again Add Input
 
-  -Select Submit
+  - Select Submit
   
 <h5>Task2: Web Activities
 
