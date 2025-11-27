@@ -100,7 +100,8 @@
 
 
        source="apache_mixed_access_full (1).json" host="webserver" sourcetype="_json" 
-| stats count AS "Hits" by uri
+      | stats count AS "Hits" by uri
+
       
    </thead>
 </table>
