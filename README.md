@@ -49,4 +49,11 @@
    </thead>
 </table>
 
+4 Client Errors
+- Click on Add Panel
+- Under New, choose Single Value
+- Use Shared Time Picker time_range
+- Set Content Title to "Client Errors"
+- Enter the Search String as below:
+
 
