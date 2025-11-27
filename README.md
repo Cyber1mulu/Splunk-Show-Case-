@@ -106,3 +106,19 @@
    </thead>
 </table>
 
+2 Top Users by IP Address
+- Click on Add Panel
+- Under New, choose Bar Chart
+- Use Shared Time Picker time_range
+- Set Content Title to "Top Users by IP Address"
+- Enter the Search String as below
+  <table>
+   <thead>
+
+
+    source="apache_mixed_access_full (1).json" host="webserver" sourcetype="_json" 
+   | stats count AS IP by ip
+
+         
+   </thead>
+</table>
