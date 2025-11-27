@@ -1,6 +1,6 @@
 <h3> Splunk Dashboard for Web Traffic Logs </h3>
 
-<h>Object</h>
+<h3>Object</h3>
 
 Lab Set Up
 
