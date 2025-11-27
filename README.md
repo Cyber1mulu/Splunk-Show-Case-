@@ -4,7 +4,7 @@
 
 <h3>Lab Set Up </h3>
 
-<h5> Task 1 The First one setting up Time Range </h5>
+<h5> Task 1 The First setting up Time Range </h5>
 
   - Add Time Range Button
   - Click on Add Input
